@@ -1,0 +1,1 @@
+La diferecia es que en esta opcion creo el archivo desde el repositorio , la otra opcion es crearlo en mi computadora y subirlo al repositorio
