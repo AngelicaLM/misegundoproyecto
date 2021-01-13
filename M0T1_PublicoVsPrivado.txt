@@ -1,0 +1,2 @@
+El proyecto en modo privado no se visualiza porque solo esta disponbible 
+para un usuario, el publico lo puede ver cualquier persona
